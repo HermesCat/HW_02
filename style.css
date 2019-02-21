@@ -1,0 +1,119 @@
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+    background: #44dddd;
+    width: 185px;
+    height: 45px;
+    color: #ffffff;
+    margin: 0 0 1px 1px;
+    padding-bottom: 40px;
+    
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+}
+hr{
+    width: 950px;
+    margin: 0 auto;
+}
+
+.nav-link{
+    color: #000000;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+
+.nav-link:hover{
+    color: #000000;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.highlight{
+    color:  #44dddd; 
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.background{
+    background:#bdd9e4;
+}
+
+header{
+    background: #ffffff;
+    width: 100%;
+    padding-top: 45px;
+    border-bottom: #272626 2px solid;
+    border-bottom-width: 100%;
+}
+
+footer{
+    text-align: center;
+    background: #3f3c3c;
+    color: #ffffff;
+    border-top: #44dddd 10px solid;
+    margin-top: 0;
+    min-height: 50px;
+    position: absolute;
+    width: 100%;
+    left: 0;
+}
+
+header .row{
+    margin: 0 auto;
+    width: 960px;
+   
+}
+
+.jumbotron{
+    width: 960px;
+    margin: 0 auto;
+    padding: 20px 20px;
+    background: #ffffff;
+    min-height: 620px;
+   
+   
+}
+
+.nav{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    background: #e7e5e5;
+    padding: 30px 30px 100px 30px;
+}
+
+.button_1{
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    background: #44dddd;
+    width: 80px;
+    height: 40px;
+    text-transform: uppercase;
+    padding-top: 5px;
+    font-size: 20px;
+}
+.bottom-center {
+    position: absolute;
+    bottom: 8px;
+    text-align: center;
+    width: 200px;
+    height: 35px;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    background: #44dddd;
+    padding-top: 5px;
+    margin: 0 0 0 5px;
+  }
